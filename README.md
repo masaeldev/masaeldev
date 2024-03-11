@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## REDES SOCIALES
-
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a> 
 <!--
 **danilok23/danilok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
