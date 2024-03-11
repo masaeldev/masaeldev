@@ -1,7 +1,15 @@
-### Hi there 👋
+### Mi nombre es Danilo Puente 👋
+#### Desarrollador web junior 💻 actualmente en **búsqueda activa** de empleo♨️
+
+
+#### Actualmente me dedico a:
+
+- Reforzar conocimientos sobre el stack tecnológico ReactJs y nuevas tecnologías
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+___
 
 ## REDES SOCIALES
-<a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="_blank"> <img src="~/icons/iconin.png" width="120" height="120"/></a> 
+<a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 <!--
 **danilok23/danilok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
