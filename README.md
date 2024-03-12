@@ -12,7 +12,10 @@ ___
 <a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="blank"><img align="center" src="/icons/iconoin.png" alt="danilo puente" height="30" width="40" /> 
  linkedin</a>
 
-<a href="mailto:danilo.dspm.1996@gmail.com " target="blank"><img align="center" src="/icons/iconogmail2.webp" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
+<a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="/icons/iconogmail2.webp" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
+
+<a href="https://www.instagram.com/camidp96/" target="blank"><img align="center" src="/icons/iconogmail2.webp" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
+<a  href="https://icons8.com/icon/Xy10Jcu1L2Su/instagram">Instagram</a> icon by <a href="https://icons8.com">Icons8</a>
 <!--
 **danilok23/danilok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
