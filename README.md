@@ -14,7 +14,7 @@ ___
 
 <a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="/icons/iconogmail2.webp" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
 
-<a href="https://www.instagram.com/camidp96/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="danilo santiago puente martinez" height="38" width="38" />  Instagram</a>
+<a href="https://www.instagram.com/camidp96/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="danilo santiago puente martinez" height="45" width="45" />  Instagram</a>
 </svg>
 <!--
 **danilok23/danilok23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
