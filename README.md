@@ -9,7 +9,7 @@
 ___
 
 ## REDES SOCIALES
-<a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="blank"><img align="center" src="https://github.com/danilok23/danilok23/assets/69220330/a16049d7-c279-49de-aaaf-a1f034662283" alt="danilo puente" height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="blank"><img align="center" src="../icon/iconin.png" alt="danilo puente" height="30" width="40" /> 
  linkedin</a>
 
 <a href="mailto:danilo.dspm.1996@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
