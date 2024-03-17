@@ -13,7 +13,6 @@ ___
  linkedin</a>
 
 <a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="https://github.com/danilok23/danilok23/assets/69220330/37fb2867-c8e4-4343-8ccd-0022d27d39e3" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
-<a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="danilo santiago puente martinez" height="30" width="40"> danilo.dspm.1996@gmail.com</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a href="https://www.instagram.com/camidp96/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="danilo santiago puente martinez" height="45" width="45" />  Instagram</a>
 </svg>
