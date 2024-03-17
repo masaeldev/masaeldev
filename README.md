@@ -12,7 +12,8 @@ ___
 <a href="https://www.linkedin.com/in/danilo-santiago-puente/" target="blank"><img align="center" src="https://github.com/danilok23/danilok23/assets/69220330/cebc2239-634b-4349-b833-9fdb8724d033" alt="danilo puente" height="40" width="40" /> 
  linkedin</a>
 
-<a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="/icons/iconogmail2.webp" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
+<a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="" alt="danilo santiago puente martinez" height="30" width="40" />  danilo.dspm.1996@gmail.com</a>
+<a href="mailto:danilo.dspm.1996@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="danilo santiago puente martinez" height="30" width="40"> danilo.dspm.1996@gmail.com</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a href="https://www.instagram.com/camidp96/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="danilo santiago puente martinez" height="45" width="45" />  Instagram</a>
 </svg>
