@@ -1,8 +1,8 @@
 ### Mi nombre es Danilo Puente 👋
+#### Desarrollador web junior 💻 actualmente en **búsqueda activa** de empleo♨️
 <a href="https://github.com/masaeldev">
   <img src="https://img.shields.io/github/followers/masaeldev">
 </a>
-#### Desarrollador web junior 💻 actualmente en **búsqueda activa** de empleo♨️
 
 
 #### Actualmente me dedico a:
